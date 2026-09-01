@@ -4,7 +4,7 @@
 
 **Author:** Victoria Love Franklin  
 **Conference:** EAI SmartGIFT 2026  
-**Status:** Accepted for presentation and publication proceedings workflow
+**Status:** Accepted for presentation and publication in the proceedings workflow
 
 SEGDA is a reproducible, multiscale geospatial framework integrating environmental justice, reconstructed electricity-outage exposure, climate stress, and social vulnerability across California census tracts and counties.
 
@@ -15,7 +15,7 @@ https://smartgiftconf.eai-conferences.org/2026/accepted-papers/
 
 ## Repository contents
 
-- `src/segda.py` — audited SEGDA v7.6.6 analysis and camera-ready visual pipeline.
+- `src/segda.py` — audited SEGDA analysis and camera-ready visual pipeline.
 - `requirements.txt` — Python dependencies used by the script.
 - `docs/methodology.md` — summary of the locked analytical method.
 - `docs/data_sources.md` — required input files and redistribution guidance.
