@@ -5,7 +5,6 @@ type: software
 authors:
   - family-names: "Franklin"
     given-names: "Victoria Love"
-version: "7.6.6"
 date-released: "2026-09-01"
 abstract: "A reproducible multiscale geospatial framework integrating environmental justice, electricity-outage exposure, climate stress, and social vulnerability across California."
 keywords:
