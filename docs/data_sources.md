@@ -1,6 +1,6 @@
 # Required Input Files
 
-The SEGDA v7.6.6 script currently expects the following inputs:
+The SEGDA script currently expects the following inputs:
 
 | Role | Expected filename |
 |---|---|
@@ -18,8 +18,5 @@ The SEGDA v7.6.6 script currently expects the following inputs:
 
 A `.shp` file is not sufficient by itself. Keep its associated `.shx`, `.dbf`, `.prj`, and `.cpg` files together in the same data directory.
 
-## Public repository guidance
-
-Do not upload source datasets unless their licenses and terms permit redistribution. The safer default is to document the authoritative source, access method, preprocessing steps, and expected filenames while keeping raw source data outside GitHub.
 
 The script records SHA-256 hashes for resolved inputs as part of its provenance workflow.
