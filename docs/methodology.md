@@ -1,6 +1,6 @@
 # SEGDA Methodology
 
-The public script identifies itself as SEGDA v7.6.6 and implements the following locked analytical design:
+The public script identifies itself as SEGDA and implements the following locked analytical design:
 
 1. **Strict tract EJBI:** requires CDC/ATSDR SVI `RPL_THEMES`, CalEnviroScreen overall percentile, and CalEnviroScreen Pollution Burden percentile. Negative SVI codes are treated as missing.
 2. **County EJBI:** population-weighted mean of valid tract EJBI.
