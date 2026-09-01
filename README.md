@@ -56,4 +56,4 @@ Use the repository citation metadata in `CITATION.cff`. Add the Springer LNICST 
 
 ## License
 
-No open-source license has been selected in this starter package. Add a license only after deciding what reuse permissions you want to grant for the SEGDA code.
+License: Source code in this repository is licensed under the MIT License. The associated SEGDA manuscript and any publisher-formatted materials are not covered by this software license and remain subject to the applicable Springer Nature publishing agreement.
