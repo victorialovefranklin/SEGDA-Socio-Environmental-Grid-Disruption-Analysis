@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use SEGDA, please cite the software repository and the associated conference paper."
+title: "SEGDA: Socio-Environmental Grid Disruption Analysis"
+type: software
+authors:
+  - family-names: "Franklin"
+    given-names: "Victoria Love"
+version: "7.6.6"
+date-released: "2026-09-01"
+abstract: "A reproducible multiscale geospatial framework integrating environmental justice, electricity-outage exposure, climate stress, and social vulnerability across California."
+keywords:
+  - environmental justice
+  - grid resilience
+  - geospatial analysis
+  - energy justice
+  - climate resilience
+  - spatial analysis
+  - power outages
+  - critical infrastructure

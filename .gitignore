@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets/environment
+.env
+.env.*
+*.pem
+*.key
+
+# Raw/local data
+data/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+
+# Generated SEGDA outputs
+SEGDA_v7_6_OUTPUT/
+*.zip
+
+# Temporary files
+*.tmp
+*.log
